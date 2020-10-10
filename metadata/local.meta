@@ -1,0 +1,66 @@
+[props/netgear%3Aorbi]
+owner = admin
+version = 8.0.6
+modtime = 1601681842.525514000
+
+[props/netgear%3Aorbi/EXTRACT-event_type]
+access = read : [ * ], write : [ admin ]
+export = system
+owner = admin
+version = 8.0.6
+modtime = 1601689647.402898000
+
+[props/netgear%3Aorbi/EXTRACT-mac_address]
+access = read : [ * ], write : [ admin ]
+export = system
+owner = admin
+version = 8.0.6
+modtime = 1601685462.792034000
+
+[props/netgear%3Aorbi/EXTRACT-src_ip]
+access = read : [ * ], write : [ admin ]
+export = system
+owner = admin
+version = 8.0.6
+modtime = 1601685470.756449000
+
+[props/netgear%3Aorbi/EXTRACT-dest_port]
+access = read : [ * ], write : [ admin ]
+export = system
+owner = admin
+version = 8.0.6
+modtime = 1601685448.087249000
+
+[props/netgear%3Aorbi/EXTRACT-dest_ip]
+access = read : [ * ], write : [ admin ]
+export = system
+owner = admin
+version = 8.0.6
+modtime = 1601685440.955930000
+
+[props/netgear%3Aorbi/EXTRACT-signature]
+access = read : [ * ], write : [ admin ]
+export = system
+owner = admin
+version = 8.0.6
+modtime = 1601690887.014763000
+
+[eventtypes/Scanning]
+owner = admin
+version = 8.0.6
+modtime = 1601690930.236332000
+
+[tags/eventtype%3DScanning]
+owner = admin
+version = 8.0.6
+modtime = 1601690946.408819000
+
+[eventtypes/DHCP]
+owner = admin
+version = 8.0.6
+modtime = 1601691648.661972000
+
+[tags/eventtype%3DDHCP]
+owner = admin
+version = 8.0.6
+modtime = 1601691676.427872000
